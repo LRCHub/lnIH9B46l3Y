@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ロメオ",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-03-11T14:01:35.421379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "LIP×LIP",
+      "has_synced": true,
+      "path": "select/01_ロメオ_LIP×LIP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "LIPxLIP",
+      "has_synced": true,
+      "path": "select/02_ロメオ_LIPxLIP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "LIP×LIP(勇次郎・愛蔵",
+      "has_synced": true,
+      "path": "select/03_ロメオ_LIP×LIP(勇次郎・愛蔵.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロメオ - Romeo",
+      "artist": "LIP×LIP",
+      "has_synced": true,
+      "path": "select/04_ロメオ_-_Romeo_LIP×LIP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロメオ -single mix-",
+      "artist": "LIP×LIP",
+      "has_synced": false,
+      "path": "select/05_ロメオ_-single_mix-_LIP×LIP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "HoneyWorks feat. 榎本虎太朗 (CV:花江夏樹) & 柴崎健 (CV:江口拓也)",
+      "has_synced": true,
+      "path": "select/06_ロメオ_HoneyWorks_feat._榎本虎太朗_(CV_花江夏樹)_&_柴崎健_(CV_江口拓也).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロメオ (feat.榎本虎太朗×柴崎健)",
+      "artist": "HoneyWorks feat.榎本虎太朗×柴崎健(CV.花江夏樹・江口拓也)",
+      "has_synced": true,
+      "path": "select/07_ロメオ_(feat.榎本虎太朗×柴崎健)_HoneyWorks_feat.榎本虎太朗×柴崎健(CV.花江夏樹・江口拓也).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "HoneyWorks feat.榎本虎太朗(CV.花江夏樹)、柴崎健(CV.江口拓也)",
+      "has_synced": true,
+      "path": "select/08_ロメオ_HoneyWorks_feat.榎本虎太朗(CV.花江夏樹)、柴崎健(CV.江口拓也).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/09_ロメオ_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロメオ -single mix-",
+      "artist": "LIP x LIP (内山昂輝, 島崎信長)",
+      "has_synced": false,
+      "path": "select/10_ロメオ_-single_mix-_LIP_x_LIP_(内山昂輝,_島崎信長).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "LIP×LIP, 勇次郎 (CV:内山昂輝), 愛蔵 (CV:島﨑信長)",
+      "has_synced": true,
+      "path": "select/11_ロメオ_LIP×LIP,_勇次郎_(CV_内山昂輝),_愛蔵_(CV_島﨑信長).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "Blankey Jet City",
+      "has_synced": true,
+      "path": "select/12_ロメオ_Blankey_Jet_City.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "HoneyWorks, 榎本虎太朗 (CV:花江夏樹), 柴崎健（CV：江口拓也）",
+      "has_synced": true,
+      "path": "select/13_ロメオ_HoneyWorks,_榎本虎太朗_(CV_花江夏樹),_柴崎健(CV_江口拓也).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ロメオ",
+      "artist": "HONEYWORKS feat. 榎本虎太朗 (CV:花江夏樹) & 柴崎健（CV：江口拓也）",
+      "has_synced": true,
+      "path": "select/14_ロメオ_HONEYWORKS_feat._榎本虎太朗_(CV_花江夏樹)_&_柴崎健(CV_江口拓也).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロメオ feat.ハコニワリリィ",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_ロメオ_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
